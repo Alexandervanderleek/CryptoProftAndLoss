@@ -8,13 +8,13 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
      <link rel="stylesheet" href="styling.css">
-    <title>What IF </title>
+    <title>Crypto Profit and Loss </title>
   </head>
   <body>
     <div class="d-flex justify-content-center">
       <div>
         <div id="title">
-          <h1>CALCULATE YOUR P&L</h1>
+          <h1>CALCULATE YOUR PROFIT AND LOSS</h1>
         </div>
 
 
